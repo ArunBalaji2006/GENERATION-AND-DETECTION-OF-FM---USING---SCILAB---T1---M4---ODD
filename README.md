@@ -93,6 +93,8 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 
 
 ## RESULT: 
+<img width="591" height="1280" alt="EX - 4 AC" src="https://github.com/user-attachments/assets/034b7e09-3aa8-4dbc-b3cb-46f765f2594e" />
+
 Thus the frequency modulation and demodulation is successfully done and the output is experimentally verified. 
 
 
